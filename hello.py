@@ -1,0 +1,1 @@
+print("Hai Dr MSO, apa khabar")
